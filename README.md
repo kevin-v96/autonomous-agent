@@ -10,8 +10,8 @@ The agents currently allow for a few different functionalities like:
 This way, it can accomplish a lot of complicated tasks that a simple base LLM can't. 
 
 ### TO-DO
-- [] Add Python files to run agent(s) from the terminal
-- [] Add hosting via some platform like Streamlit, Gradio, etc.
+- [ ] Add Python files to run agent(s) from the terminal
+- [ ] Add hosting via some platform like Streamlit, Gradio, etc.
 
 ### References
 Spotify data: from [Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/discussion/445273)
